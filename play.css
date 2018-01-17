@@ -1,0 +1,72 @@
+h1 {
+	font-family: arial;
+	font-size: 50px;
+	color: pink;
+	text-shadow: 2px 2px 2px grey;
+	margin: 0;
+
+}
+
+ul {
+	list-style: none;
+	padding-right: 50px;
+	text-align: right;
+	padding-left: 0px;
+
+}
+
+ul li {
+	display: inline;
+	margin-left: 15px;
+
+}
+
+ul li a {
+	text-decoration: none;
+	color: grey;
+	font-family: 'Lora', serif;
+}
+
+ul.a {
+	list-style: :none;
+	text-align: left;
+	color: grey;
+	font-family: 'Lora', serif;
+	padding-left: 50px;
+}
+
+#cabecalho {
+
+	text-align: center;
+}
+
+p {
+
+	font-family: arial;
+	font-size: 14px;
+	color: grey;
+}
+
+#interface {
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+
+}
+
+#interface article p {
+
+	font-family: 'Lora', serif;
+
+}
+
+#cabecalho h2 {
+
+	font-family: arial;
+	font-size: 14px;
+	color: grey;
+	margin: 1px;
+
+}
