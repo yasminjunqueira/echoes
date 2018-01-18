@@ -1,6 +1,6 @@
 # Echoes
 
-[Leia Aqui](https://github.com/yasminjunqueira/echoes.git)
+[Leia Aqui](https://yasminjunqueira.github.io/echoes/)
 
 Echoes é um livro escrito por Yasmin Junqueira.
 
